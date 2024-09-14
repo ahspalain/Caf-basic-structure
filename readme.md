@@ -13,9 +13,9 @@
 
 3. Main: La sección principal del contenido está envuelta en la etiqueta "main" y contiene varias secciones:
 
-* Inicio ("section id="inicio""): Un mensaje de bienvenida con un título ("h2") y un párrafo ("p").
-* Sobre Nosotros ("section id="sobre-nosotros""): Un título y una breve descripción sobre el café.
-* Productos Destacados ("section id="productos-destacados""): Incluye tres productos (Café Americano, Cappuccino y Tarta de Manzana), tres "article" con título ("h3"), descripción y precio, y un enlace al menú completo.
+* Inicio ("section id="inicio"): Un mensaje de bienvenida con un título ("h2") y un párrafo ("p").
+* Sobre Nosotros ("section id="sobre-nosotros"): Un título y una breve descripción sobre el café.
+* Productos Destacados ("section id="productos-destacados"): Incluye tres productos (Café Americano, Cappuccino y Tarta de Manzana), tres "article" con título ("h3"), descripción y precio, y un enlace al menú completo.
 
 
 4. Menú Preview: Un adelanto del menú en la sección menu-preview:
